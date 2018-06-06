@@ -32,7 +32,7 @@ export default {
   data () {
     return {
       msg1: 'Movies App',
-      msg2: '{FirebaseUI Auth + Vue router)'
+      msg2: '{FirebaseUI Auth + Vue router + Bulma)'
     }
   }
 }
