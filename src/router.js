@@ -19,7 +19,7 @@ const router = new VueRouter ({
   ]
 })
 /*Routes is an array of objects.*/
-/*Don't have to omport components in script file in App.vue if using router.*/
+/*Don't have to import components in script file in App.vue if using router.*/
 
 /*Note: .git init adds git file.*/
 export default router;

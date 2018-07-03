@@ -23,7 +23,7 @@ export default {
   /*Vue event hooks wait until template gets mounted up with mounted with event hook into the DOM*/
   mounted() {
     var uiConfig = {
-     signInSuccessUrl: '/loggedin', /*These are pages you can not allow people to have acces to unless they are logged in.*/
+     signInSuccessUrl: '/loggedin', /*These are pages you can not allow people to have access to unless they are logged in.*/
      signInOptions: [
        // Leave the lines as is for the providers you want to offer your users.
        firebase.auth.GoogleAuthProvider.PROVIDER_ID,
